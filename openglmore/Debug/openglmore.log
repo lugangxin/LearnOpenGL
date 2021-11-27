@@ -1,0 +1,12 @@
+﻿  cubemap.cpp
+D:\vscode\learnopengl\include\learnopengl\shader_m.h(44,40): warning C4101: “e”: 未引用的局部变量
+D:\vscode\learnopengl\openglmore\cubemap.cpp(269,28): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\vscode\learnopengl\openglmore\cubemap.cpp(363,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\vscode\learnopengl\openglmore\cubemap.cpp(364,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\vscode\learnopengl\openglmore\cubemap.cpp(368,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\vscode\learnopengl\openglmore\cubemap.cpp(369,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\vscode\learnopengl\openglmore\cubemap.cpp(371,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\vscode\learnopengl\openglmore\cubemap.cpp(372,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\vscode\learnopengl\openglmore\cubemap.cpp(381,31): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  openglmore.vcxproj -> D:\vscode\learnopengl\bin\openglmore.exe

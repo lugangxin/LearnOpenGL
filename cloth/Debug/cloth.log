@@ -1,0 +1,12 @@
+﻿  Cloth.cpp
+D:\vscode\learnopengl\cloth\Cloth.cpp(98,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\vscode\learnopengl\cloth\Cloth.cpp(104,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\vscode\learnopengl\cloth\Cloth.cpp(110,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\vscode\learnopengl\cloth\Cloth.cpp(161,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\vscode\learnopengl\cloth\Cloth.cpp(192,20): warning C4018: “<”: 有符号/无符号不匹配
+  main.cpp
+D:\vscode\learnopengl\include\FreeImage.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Particle.cpp
+  Spring.cpp
+  正在生成代码...
+  cloth.vcxproj -> D:\vscode\learnopengl\bin\cloth.exe

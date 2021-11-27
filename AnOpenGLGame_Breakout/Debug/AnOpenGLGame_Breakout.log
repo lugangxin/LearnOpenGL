@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\vscode\learnopengl\AnOpenGLGame_Breakout\main.cpp(57,24): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+SOIL.lib(image_DXT.obj) : warning LNK4099: 未找到 PDB“vc110.pdb”(使用“SOIL.lib(image_DXT.obj)”或在“D:\vscode\learnopengl\bin\vc110.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+SOIL.lib(image_helper.obj) : warning LNK4099: 未找到 PDB“vc110.pdb”(使用“SOIL.lib(image_helper.obj)”或在“D:\vscode\learnopengl\bin\vc110.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+SOIL.lib(SOIL.obj) : warning LNK4099: 未找到 PDB“”(使用“SOIL.lib(SOIL.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+SOIL.lib(stb_image_aug.obj) : warning LNK4099: 未找到 PDB“”(使用“SOIL.lib(stb_image_aug.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+  AnOpenGLGame_Breakout.vcxproj -> D:\vscode\learnopengl\bin\AnOpenGLGame_Breakout.exe

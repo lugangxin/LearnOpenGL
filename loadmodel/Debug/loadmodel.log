@@ -1,0 +1,11 @@
+﻿  main.cpp
+D:\vscode\learnopengl\include\learnopengl\shader_m.h(44,40): warning C4101: “e”: 未引用的局部变量
+D:\vscode\learnopengl\loadmodel\main.cpp(164,28): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\vscode\learnopengl\loadmodel\main.cpp(266,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\vscode\learnopengl\loadmodel\main.cpp(267,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\vscode\learnopengl\loadmodel\main.cpp(271,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\vscode\learnopengl\loadmodel\main.cpp(272,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\vscode\learnopengl\loadmodel\main.cpp(274,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\vscode\learnopengl\loadmodel\main.cpp(275,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\vscode\learnopengl\loadmodel\main.cpp(284,31): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  loadmodel.vcxproj -> D:\vscode\learnopengl\bin\loadmodel.exe

@@ -1,0 +1,22 @@
+﻿  lightTest.cpp
+D:\vscode\learnopengl\include\learnopengl\shader_m.h(44,40): warning C4101: “e”: 未引用的局部变量
+D:\vscode\learnopengl\lightlearn\lightTest.cpp(193,28): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\vscode\learnopengl\lightlearn\lightTest.cpp(258,62): warning C4305: “参数”: 从“double”到“float”截断
+D:\vscode\learnopengl\lightlearn\lightTest.cpp(259,66): warning C4305: “参数”: 从“double”到“float”截断
+D:\vscode\learnopengl\lightlearn\lightTest.cpp(266,62): warning C4305: “参数”: 从“double”到“float”截断
+D:\vscode\learnopengl\lightlearn\lightTest.cpp(267,66): warning C4305: “参数”: 从“double”到“float”截断
+D:\vscode\learnopengl\lightlearn\lightTest.cpp(274,62): warning C4305: “参数”: 从“double”到“float”截断
+D:\vscode\learnopengl\lightlearn\lightTest.cpp(275,66): warning C4305: “参数”: 从“double”到“float”截断
+D:\vscode\learnopengl\lightlearn\lightTest.cpp(282,62): warning C4305: “参数”: 从“double”到“float”截断
+D:\vscode\learnopengl\lightlearn\lightTest.cpp(283,66): warning C4305: “参数”: 从“double”到“float”截断
+D:\vscode\learnopengl\lightlearn\lightTest.cpp(291,57): warning C4305: “参数”: 从“double”到“float”截断
+D:\vscode\learnopengl\lightlearn\lightTest.cpp(292,61): warning C4305: “参数”: 从“double”到“float”截断
+D:\vscode\learnopengl\lightlearn\lightTest.cpp(397,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\vscode\learnopengl\lightlearn\lightTest.cpp(398,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\vscode\learnopengl\lightlearn\lightTest.cpp(402,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\vscode\learnopengl\lightlearn\lightTest.cpp(403,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\vscode\learnopengl\lightlearn\lightTest.cpp(405,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\vscode\learnopengl\lightlearn\lightTest.cpp(406,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\vscode\learnopengl\lightlearn\lightTest.cpp(415,31): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  lightlearn.vcxproj -> D:\vscode\learnopengl\bin\lightlearn.exe
